@@ -2,7 +2,7 @@ package exercises;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Teste {
+public class Test {
     public static void main(String[] args) {
 
         Scanner scann = new Scanner(System.in);

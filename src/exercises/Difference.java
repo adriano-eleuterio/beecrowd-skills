@@ -1,8 +1,6 @@
 package exercises;
 
-import java.util.Scanner;
-
-public class Diferenca {
+public class Difference {
 
     public static void main(String[] args) {
 
