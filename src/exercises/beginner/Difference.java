@@ -1,4 +1,4 @@
-package exercises;
+package exercises.beginner;
 
 public class Difference {
 
